@@ -1,0 +1,35 @@
+{
+  "index.html": {
+    "resources": [
+      "images/school.jpg",
+      "images/bg.png",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "json/basic.json",
+      "css/mui.min.css",
+      "js/resume.js",
+      "images/yuan.png",
+      "css/myresume.css",
+      "images/companylogo.png",
+      "images/yuanque.png",
+      "images/phone.png",
+      "images/people.png",
+      "images/home.png",
+      "images/person.png",
+      "images/email.png",
+      "images/like.png",
+      "images/tall.png",
+      "images/xuexiao.jpg",
+      "images/gongsi.png",
+      "images/4.jpeg",
+      "images/myweb.png",
+      "images/wechat.png",
+      "font_5y466ykens9vn29/iconfont.css",
+      "font_5y466ykens9vn29/iconfont.woff",
+      "js/mui.zoom.js",
+      "images/music.png",
+      "images/mypic.jpg",
+      "images/bg1.jpg"
+    ]
+  }
+}
